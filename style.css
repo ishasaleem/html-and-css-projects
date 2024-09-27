@@ -1,0 +1,42 @@
+body{
+    background-color:lightgoldenrodyellow;
+    color: rgb(165, 61, 61);}
+#first {
+    background-color:rgb(116, 59, 116);
+
+}
+header{
+    background-color:palevioletred;
+    color:lightgoldenrodyellow
+}
+.img-para{
+    color:rgb(180, 240, 240);
+    font-size: 2rem
+}
+button{
+    height: 50px;
+    background-color: palevioletred;
+    border-radius: 7%;
+  
+ 
+    color:lightgoldenrodyellow
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    place-content: center;
+    
+    background-color: palevioletred;
+    height: 30px;
+    color: lightgoldenrodyellow;
+}
+header h1{
+    text-align: center;
+    font-size: 100px;
+}
+main h2{
+    font-size: 40px;
+}
+main p{
+    font-size: 20px;
+}
